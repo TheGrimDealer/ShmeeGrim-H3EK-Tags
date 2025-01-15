@@ -24,6 +24,12 @@ To download:
 
 ---
 
+## IMPORTANT
+
+Some maps included in this tag release make use of custom shaders. Please keep in mind that these shaders do overwrite some vanilla tags, so backup any applicable tags before you install.
+
+---
+
 ## CREDITS
 
 -[ShmeeGrim](https://twitter.com/The_Grim_Dealer) **Design for Homefront and Conflux. Environment art on all maps.**
