@@ -26,7 +26,7 @@ To download:
 
 ## IMPORTANT
 
-Some maps included in this tag release make use of custom shaders. Please keep in mind that these shaders do overwrite some vanilla tags, so backup any applicable tags before you install.
+Some maps included in this tag release make use of custom HLSL shaders. Please keep in mind that these shaders do overwrite some vanilla tags, so backup any applicable tags before you install.
 
 ---
 
