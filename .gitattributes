@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+conflux_lightmap_conflux_level_16f_lp_array.bitmap filter=lfs diff=lfs merge=lfs -text
+goliath_lightmap_goliath_16f_lp_array.bitmap filter=lfs diff=lfs merge=lfs -text
+homefront_lightmap_homefront_16f_lp_array.bitmap filter=lfs diff=lfs merge=lfs -text
+.fsb filter=lfs diff=lfs merge=lfs -text
