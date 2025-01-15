@@ -20,7 +20,7 @@ Some scenarios make use of the tags below
 
 To download:  
 1. Click **Code** and then **Download ZIP**.
-2. Open the zip and drag the **Tags**, **Data**, and **Fmod** folders into the **root directory** of your H3EK.
+2. Open the zip and drag the **Tags**, **Data**, and **Source** folders into the **root directory** of your H3EK.
 
 ---
 
