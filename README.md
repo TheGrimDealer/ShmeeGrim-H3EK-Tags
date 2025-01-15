@@ -14,6 +14,9 @@ Some scenarios make use of the tags below
 - **VKMT M6D Tags** 
     -[Halo CE M6D For Halo 3](https://www.nexusmods.com/halothemasterchiefcollection/mods/1706)
 
+- **Halo 3 ODST Shaders**
+      - Homefront and Goliath make use of many shaders from Halo 3: ODST. To be safe, copy all shaders/bitmaps from ODST into your H3EK directory
+
 ---
 
 ## INSTALLATION
