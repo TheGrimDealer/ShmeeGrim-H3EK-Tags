@@ -1,3 +1,6 @@
+![H3EK Tag Release](https://github.com/user-attachments/assets/17ab0870-a635-4f1d-8f87-3fc3682936c4)
+
+
 ## DESCRIPTION
 
 This is a collection of tags and some script files for my released Halo 3 mods. Modders are free to use and modify these tags as they see fit, as long as they provide credit where it's due. 
