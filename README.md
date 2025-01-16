@@ -27,6 +27,7 @@ To download:
 ## IMPORTANT
 
 Some maps included in this tag release make use of custom HLSL shaders. Please keep in mind that these shaders do overwrite some vanilla tags, so backup any applicable tags before you install.
+
 Also please note that Homefront and Goliath both make use of shaders and objects from ODST and will require you to drag and drop anything from the Atlas folders in the ODSTEK into the same equivalent directories in the H3EK.
 
 ---
