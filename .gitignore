@@ -45,3 +45,9 @@
 /tags/shmeegrim/levels/shared/cc_delta_halo/*
 /tags/shmeegrim/objects/levels/shared/*
 
+!/fmod/
+/fmod/pc/*
+!/fmod/pc/sfx.goliath.fsb
+!/fmod/pc/sfx.goliath.fsb.info
+!/fmod/pc/sfx.homefront.fsb
+!/fmod/pc/sfx.homefront.fsb.info
