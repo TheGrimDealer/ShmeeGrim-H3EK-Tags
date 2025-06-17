@@ -51,3 +51,8 @@
 !/fmod/pc/sfx.goliath.fsb.info
 !/fmod/pc/sfx.homefront.fsb
 !/fmod/pc/sfx.homefront.fsb.info
+*.scenario_faux_data
+*.probestore
+tags/shmeegrim/levels/multi/conflux/conflux_lightmap_conflux_level_16f_lp_array.bitmap
+tags/shmeegrim/levels/multi/goliath/goliath_lightmap_goliath_16f_lp_array.bitmap
+tags/shmeegrim/levels/multi/homefront/homefront_lightmap_homefront_16f_lp_array.bitmap

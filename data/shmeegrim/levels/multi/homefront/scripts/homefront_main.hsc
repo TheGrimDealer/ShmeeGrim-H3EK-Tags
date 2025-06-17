@@ -29,7 +29,7 @@
 	(if (= anim_num 1)
 		(begin
 			(object_create Phantom_01)
-			(scenery_animation_start Phantom_01 cone_collective\objects\levels\multi\homefront\homefront_phantom\homefront_phantom "homefront_phantom_anim_01")
+			(scenery_animation_start Phantom_01 shmeegrim\objects\levels\multi\homefront\homefront_phantom\homefront_phantom "homefront_phantom_anim_01")
 			(object_set_custom_animation_speed Phantom_01 0.35)
 			(sleep 190)
 			(object_set_function_variable Phantom_01 scripted_object_function_d 1 1)
@@ -42,7 +42,7 @@
 		(if (= anim_num 2)
 		(begin
 			(object_create Phantom_01)
-			(scenery_animation_start Phantom_01 cone_collective\objects\levels\multi\homefront\homefront_phantom\homefront_phantom "homefront_phantom_anim_01")
+			(scenery_animation_start Phantom_01 shmeegrim\objects\levels\multi\homefront\homefront_phantom\homefront_phantom "homefront_phantom_anim_01")
 			(object_set_custom_animation_speed Phantom_01 0.35)
 			(sleep 190)
 			(object_set_function_variable Phantom_01 scripted_object_function_d 1 1)
