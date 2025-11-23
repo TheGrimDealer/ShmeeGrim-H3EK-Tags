@@ -8,6 +8,8 @@ This is a collection of tags and some script files for my released Halo 3 mods. 
 
 Some scenarios make use of the tags below
 
+- **Halo 3 ODST objects, shaders, and bitmaps**
+
 - **VKMT M6D Tags** 
     -[Halo CE M6D For Halo 3](https://www.nexusmods.com/halothemasterchiefcollection/mods/1706)
 
